@@ -1,0 +1,3 @@
+Malaysian citizens are currently using the Mysejahtera app to book consultation time slots in klinik kesihatan over the country with solely personal self-assessment with prior clinical triage.
+As a result, patients with mild, non-urgent ailments occupy limited clinic slots while the high-risk patients fail to recognize life-threatening symptoms, impacting severe outpatient overcrowding and dangerous delays in emergency intervention. Exempli gratia, patients exhibiting early warning signs of severe dengue fever frequently wait for routine clinic
+appointments instead of seeking immediate hospital emergency care, which increases complication risks.
